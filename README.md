@@ -32,4 +32,4 @@ Both modles will be tested using the Term Frequency matrix of the testing set bu
 
 * __data__: contains a small dataset for testing the model implementations and links to the full datasets
 
-* __notebooks__: contains Jupyter Notebooks that demostrate examples of running the codes
+* __notebooks__: contains Jupyter Notebooks that show examples of running the codes
