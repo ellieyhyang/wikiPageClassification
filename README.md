@@ -19,7 +19,7 @@ The training and testing data are files in .txt format, within which each line i
 
 ## Model Testing
 
-Both modles will be tested using the Term Frequency matrix of the testing set build using the same bag of 20k words. 
+Both models will be tested using the Term Frequency matrix of the testing set build using the same bag of words from the training set. 
 
 (see the README.md file in the model folders for details)
 
