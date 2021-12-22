@@ -1,7 +1,9 @@
 # Classifications on 20k-Dimension TF matrix
 
-
 ## Description
+
+Train a Logistic Regression and SVM classifiers to classify documents based on the Term Frequency (TF). Test and compare the models performance. 
+
 
 ## Scripts
 
@@ -19,12 +21,11 @@
 
 ## Obtaining the Dataset
 
-Training Dataset (consists of ~ 170,000 text documents)
+* Small Dataset (~37 MB of text): see 'Data' folder, can be run in a local machine for model testing
 
-Testing Dataset (consists of ~ 18,700 text documents)
+* Training Dataset (~1.9 GB of text): see link in the 'Data' folder
 
-
-## Python Scripts
+* Testing Dataset (~200 MB of text): see link in the 'Data' folder
 
 
 ## Instructions to run
