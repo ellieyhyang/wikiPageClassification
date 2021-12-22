@@ -10,5 +10,11 @@ The training and testing data are files in .txt format, within which each line i
 
 ## Model Training
 
-Both classifiers will be trained on the Term Frequency matrix that is built using the top 20k-most-frequent words from the entire training corpus. 
+Both classifiers will be trained on the Term Frequency matrix of the training set built using the top 20k-most-frequent words from the training corpus. 
 (Click [here](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) to learn more about Term Frequency)
+
+## Model Testing
+
+Both modles will be tested using the Term Frequency matrix of the testing set build using the same bag of 20k words. 
+
+
