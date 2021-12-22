@@ -8,13 +8,17 @@ Train a Logistic Regression and SVM classifiers to classify documents based on t
 ## Scripts
 
 #### logistic_regression_with_gradient_descent.py: 
-* Generate the TF frequency
+* Generate the 20k-dimension TF matrix for both the training and testing set
 * Train a Logistic Regression model using Gradient Descent algorithm
 * Test and evaluate the model
 
+#### logistic_regression_with_MLlib.py: 
+* Generate the 20k-dimension TF matrix for both the training and testing set
+* Train a Logistic Regression model using Gradient Descent algorithm
+* Test and evaluate the model
 
 #### logistic_regression_with_MLlib.py: 
-* Generate the TF frequency
+* Generate the 20k-dimension TF matrix for both the training and testing set
 * Use 'LinearSVC' module from the spark ML library to train a Support Vector Machine classifier
 * Test and evaluate the model
 
