@@ -5,14 +5,13 @@
 
 ## Scripts
 
-__1. logistic_regression_with_gradient_descent.py__: 
+###__1. logistic_regression_with_gradient_descent.py__: 
 * Generate the TF frequency
 * Train a Logistic Regression model using Gradient Descent algorithm
 * Test and evaluate the model
 
 
-
-__2. logistic_regression_with_MLlib.py__: 
+###__2. logistic_regression_with_MLlib.py__: 
 * Generate the TF frequency
 * Use 'LinearSVC' module from the spark ML library to train a Support Vector Machine classifier
 * Test and evaluate the model
