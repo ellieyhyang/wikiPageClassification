@@ -8,6 +8,14 @@ The goal of this project is to use supervised machine learning models to automat
 
 Both training and testing data are *.txt* files, within which each line is a single document in a pseudo XML format. 
 
+```
+<doc id = "431953" url="https://en.wikipedia.org/wiki?curid=431953"
+title="Doug Harvey (ice hockey)">Doug Harvey (ice hockey ) Douglas Norman Harvey
+    ...
+</doc>
+```
+
+
 ## Model Training
 
 1. Both classifiers will be trained on the Term Frequency (TF) matrix of the training set built using the top 20k-most-frequent words from the training corpus. 
