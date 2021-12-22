@@ -1,1 +1,1 @@
-# Classifications on 20k-Dimension TF matrix
+# Classifications on 10k-Dimension TF matrix
