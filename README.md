@@ -6,7 +6,7 @@ The goal of this project is to use supervised machine learning models to automat
 
 ## Dataset
 
-Both training and testing data are *.txt* files, within which each line is a single document in a pseud0 XML format. 
+Both training and testing data are *.txt* files, within which each line is a single document in a pseudo XML format. 
 
 ## Model Training
 
