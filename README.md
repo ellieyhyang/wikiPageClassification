@@ -18,3 +18,9 @@ Both classifiers will be trained on the Term Frequency matrix of the training se
 Both modles will be tested using the Term Frequency matrix of the testing set build using the same bag of 20k words. 
 
 
+## Folders
+
+* Classification-Models: PySpark implementations of the classification models on the 20k-dimension term frequency matrix
+* Classification-Models-Reduced-Feature-Matrix: PySpark implementations of the classifications models on the reduced term frequency matrix
+* data: contains a small dataset for testing the model implementations and links to the full datasets
+* notebooks: contains Jupyter Notebooks that demostrate examples of running the codes
