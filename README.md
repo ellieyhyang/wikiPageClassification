@@ -20,7 +20,7 @@ Both modles will be tested using the Term Frequency matrix of the testing set bu
 
 ## Folders
 
-* Classification-Models: PySpark implementations of the classification models on the 20k-dimension term frequency matrix
-* Classification-Models-Reduced-Feature-Matrix: PySpark implementations of the classifications models on the reduced term frequency matrix
-* data: contains a small dataset for testing the model implementations and links to the full datasets
-* notebooks: contains Jupyter Notebooks that demostrate examples of running the codes
+* __Classification-Models__: contains PySpark implementations of the classification models on the 20k-dimension term frequency matrix
+* __Classification-Models-Reduced-Feature-Matrix__: contains PySpark implementations of the classifications models on the reduced term frequency matrix
+* __data__: contains a small dataset for testing the model implementations and links to the full datasets
+* __notebooks__: contains Jupyter Notebooks that demostrate examples of running the codes
