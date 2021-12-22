@@ -9,14 +9,14 @@ Train a Logistic Regression and SVM classifiers to classify documents based on a
 
 #### logistic_regression_with_MLlib_(reduced_TF_matrix).py: 
 * Generate the 20k-dimension TF matrix
-* Select a 10k subset based on feature variance 
+* Reduce the TF matrix dimension to 10k using feature variance 
 * Use 'LogisticRegression' module from the spark ML library to train a Support Vector Machine classifier
 * Test and evaluate the model
 
 
 #### svm_with_MLlib_(reduced_TF_matrix).py: 
 * Generate the 20k-dimension TF matrix
-* * Select a 10k subset based on feature variance 
+* Reduce the TF matrix dimension to 10k using feature variance 
 * Use 'LinearSVC' module from the spark ML library to train a Support Vector Machine classifier
 * Test and evaluate the model
 
