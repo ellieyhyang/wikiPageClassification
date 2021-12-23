@@ -120,7 +120,7 @@ if __name__ == "__main__":
     # ========================== End of Data Preprocessing  ==========================
 
     
-    # ============= Task 1 : Data Preparation =============
+    # ============= Data Preparation =============
 
     # - STEP 1: Build Top-20 Word Dictionary from the training set
     # map (docID, ["word1", "word2", "word3", ...])
@@ -183,7 +183,7 @@ if __name__ == "__main__":
 
 
 
-    # ============= Task 2 : Learning the Model =============
+    # ============= Learning the Model =============
 
     # Use Gradient Descent to learn Logistic Regression Model
 
@@ -272,7 +272,7 @@ if __name__ == "__main__":
     print(topFiveRWords)
 
 
-    # ============= Task 3 : Model Evaluation ============= 
+    # ============= Model Evaluation ============= 
 
     # - STEP 1: Build TF matrix for Testing Sets (using the same Dictionary)
 
